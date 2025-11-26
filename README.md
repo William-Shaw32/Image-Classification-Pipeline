@@ -8,3 +8,6 @@ Nov 24, 2025
 - Any of the train files can be run to train any of the 4 categories of models (All variations of a given category are trained at once)
 - Model architectures are stored in separate files from training and testing
 - Naive bayes is never stored as a model as training time is negligible
+
+- Update to README: Tuesday Nov 25th, 8:35pm
+- I also just wanted to mention that I used a standard venv virtual environment with python version 3.12.3
