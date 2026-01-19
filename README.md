@@ -1,3 +1,4 @@
+<img width="319" height="212" alt="image" src="https://github.com/user-attachments/assets/e7917e01-0739-4267-81ca-82d19fc51932" />
 <img width="185" height="199" alt="image" src="https://github.com/user-attachments/assets/b3c0ec1e-b659-4626-9c31-7d5382ebf07a" />
   
 This repository implements an end-to-end image classification pipeline using a range of machine learning techniques. 
