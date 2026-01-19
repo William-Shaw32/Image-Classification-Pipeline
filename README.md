@@ -1,3 +1,11 @@
+This repository implements an end-to-end image classification pipeline using a range of machine learning techniques. 
+The project covers the full workflow from data loading and preprocessing through feature extraction, custom classifier design, 
+model training, and evaluation, with an emphasis on clean structure and reproducibility.
+
+The implementation uses the CIFAR-10 dataset, with 5,000 training images and 1,000 testing 
+images, and is structured to allow different feature representations and classification 
+approaches to be swapped and compared.
+
 Multilayer Perceptron Confusion Matrix
 
 <img width="1263" height="334" alt="image" src="https://github.com/user-attachments/assets/3c6c4644-90ce-4ebf-a16c-0b7e1ef5390e" />
@@ -9,14 +17,6 @@ Training a Convolutional Neural Network
 Comparing Model Performance
 
 <img width="319" height="212" alt="image" src="https://github.com/user-attachments/assets/e7917e01-0739-4267-81ca-82d19fc51932" />
-  
-This repository implements an end-to-end image classification pipeline using a range of machine learning techniques. 
-The project covers the full workflow from data loading and preprocessing through feature extraction, custom classifier design, 
-model training, and evaluation, with an emphasis on clean structure and reproducibility.
-
-The implementation uses the CIFAR-10 dataset, with 5,000 training images and 1,000 testing 
-images, and is structured to allow different feature representations and classification 
-approaches to be swapped and compared.
 
 What this project demonstrates:
 - Design of a modular machine learning pipeline for supervised image classification
