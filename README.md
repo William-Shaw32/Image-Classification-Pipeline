@@ -15,7 +15,7 @@ What this project demonstrates:
 - Training and evaluation of multiple modeling approaches
 - Comparative analysis of model performance across different techniques
 
-This project was developed in an academic setting as part of an artificial intelligence course
+This project was developed in an academic setting as part of an artificial intelligence course.
 Below are some instructions for running the different modules of the project:
 - This project uses a standard venv virtual environment with python version 3.12.3
 - In order to run all the tests and get the evaluation table run the TestAll.py file
