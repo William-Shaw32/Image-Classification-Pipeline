@@ -1,4 +1,3 @@
-William Shaw
 Image Classification Pipeline in Python and Pytorch
   
 This repository implements an end-to-end image classification pipeline using a range of machine learning techniques. 
