@@ -6,7 +6,7 @@ model training, and evaluation, with an emphasis on clean structure and reproduc
 
 The implementation uses the CIFAR-10 dataset, with 5,000 training images and 1,000 testing 
 images, and is structured to allow different feature representations and classification 
-approaches to be swapped and compared
+approaches to be swapped and compared.
 
 What this project demonstrates:
 - Design of a modular machine learning pipeline for supervised image classification
