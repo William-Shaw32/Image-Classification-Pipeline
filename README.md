@@ -1,4 +1,4 @@
-Image Classification Pipeline in Python and Pytorch
+<img width="185" height="199" alt="image" src="https://github.com/user-attachments/assets/b3c0ec1e-b659-4626-9c31-7d5382ebf07a" />
   
 This repository implements an end-to-end image classification pipeline using a range of machine learning techniques. 
 The project covers the full workflow from data loading and preprocessing through feature extraction, custom classifier design, 
