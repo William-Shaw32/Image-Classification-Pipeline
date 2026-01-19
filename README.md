@@ -10,7 +10,7 @@ approaches to be swapped and compared
 
 What this project demonstrates:
 - Design of a modular machine learning pipeline for supervised image classification
-- Feature extraction and representation engineering for image data
+- Feature extraction for image data
 - Implementation of custom classification algorithms on top of extracted features
 - Training and evaluation of multiple modeling approaches
 - Comparative analysis of model performance across different techniques
